@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graph>
+   <vertex>1</vertex>
+   <vertex>2</vertex>
+   <vertex>3</vertex>
+   <vertex>4</vertex>
+   <vertex>5</vertex>
+   <vertex>6</vertex>
+   <arc>
+      <from>1</from>
+      <to>3</to>
+      <order>1</order>
+   </arc>
+   <arc>
+      <from>2</from>
+      <to>3</to>
+      <order>2</order>
+   </arc>
+   <arc>
+      <from>3</from>
+      <to>4</to>
+      <order>1</order>
+   </arc>
+   <arc>
+      <from>3</from>
+      <to>5</to>
+      <order>1</order>
+   </arc>
+   <arc>
+      <from>4</from>
+      <to>6</to>
+      <order>1</order>
+   </arc>
+   <arc>
+      <from>5</from>
+      <to>6</to>
+      <order>2</order>
+   </arc>
+</graph>
